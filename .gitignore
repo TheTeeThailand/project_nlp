@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.json
+checkpoints/
+outputs/
+
